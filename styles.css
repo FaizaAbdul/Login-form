@@ -10,7 +10,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: https://raw.githubusercontent.com/FaizaAbdul/Login-form/refs/heads/main/login-form-background.jpg
+   background-image: url('images/login-form-background.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
